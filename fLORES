@@ -1,0 +1,40 @@
+fLORES
+
+background-color: #a7ffee;
+background-image: linear-gradient(to top, #54b8aa, #a7ffee);
+
+Ramas
+
+background-image: linear-gradient(to top, transparent, transparent 30%, var(--c));
+
+background-image: linear-gradient(to bottom left, transparent, var(--dark-color) 98%), linear-gradient(to bottom right, #23f0ff 45%, transparent 50%, transparent);
+  -webkit-mask-image: linear-gradient(135deg, #159faa 40%, transparent 50%, transparent);
+
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.2), transparent, rgba(255, 255, 255, 0.2)), linear-gradient(to top, transparent 10%, #14757a, #39c6d6);
+
+  background-image: linear-gradient(to top, rgba(20, 117, 122, 0.4), #6d0aff);
+
+background-image: linear-gradient(to bottom left, transparent, var(--dark-color)), linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
+
+-webkit-mask-image: linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
+
+mask-image: linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
+
+border-left: 2vmin solid #079097;
+-webkit-mask-image: linear-gradient(to top, transparent 25%, #079097 50%);
+
+background-image: linear-gradient(to bottom left, transparent, var(--dark-color) 98%), linear-gradient(to bottom right, #23f0ff 45%, transparent 50%, transparent);
+-webkit-mask-image: linear-gradient(135deg, #159faa 40%, transparent 50%, transparent);
+
+
+NUEVO
+
+Flores
+background-color: #6d0aff;
+  background-image: linear-gradient(to top, #d804f7, #6d0aff);
+
+Ramas
+background-image: linear-gradient(to top, transparent, transparent 30%, #8215aa);
+
+background-image: linear-gradient(to bottom left, transparent, var(--dark-color) 98%), linear-gradient(to bottom right, #23f0ff 45%, transparent 50%, transparent);
+  -webkit-mask-image: linear-gradient(135deg, #159faa 40%, transparent 50%, transparent);
